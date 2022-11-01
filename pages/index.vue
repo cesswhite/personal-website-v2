@@ -7,7 +7,7 @@
       <h1 class="font-sans font-semibold text-center text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
         Céss White
       </h1>
-      <h2 class="font-sans font-medium text-center text-3xl text-dark-900 w-3/4 dark:text-light-50">
+      <h2 class="font-sans font-medium text-center w-full text-3xl text-dark-900 lg:w-3/4 dark:text-light-50">
         Front End Developer & UI Designer specialised in websites & progressive web apps
       </h2>
       <div class="flex gap-4">
