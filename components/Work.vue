@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-42 w-full">
+  <div class="mt-28 w-full lg:mt-42">
     <div
       class="flex flex-col border-t-1 border-dark-900 px-4 pt-12 gap-4 items-center justify-between lg:flex-row lg:px-0 dark:border-light-50">
       <h1 class="font-sans w-full text-dark-900 text-4xl lg:pl-4 lg:text-6xl lg:w-1/2 dark:text-light-50">

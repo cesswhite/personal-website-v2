@@ -6,7 +6,7 @@
     <h2 class="font-sans font-medium text-center text-3xl text-dark-900 dark:text-light-50">
       Minimalist and lovingly handcrafted
     </h2>
-    <div class="mt-42 w-full grid gap-12 grid-cols-1 lg:grid-cols-2">
+    <div class="mt-28 w-full grid gap-12 grid-cols-1 lg:mt-42 lg:grid-cols-2">
       <template v-for="__w in templates.templates">
         <Template :name="__w.name" :description="__w.description" :image="__w.image" :link="__w.link" />
       </template>

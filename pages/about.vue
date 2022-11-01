@@ -3,7 +3,8 @@
     <h1 class="font-sans font-semibold text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
       About
     </h1>
-    <p class="font-sans font-medium text-left text-3xl text-dark-900 w-1/2 dark:text-light-50">
+    <p
+      class="font-sans font-medium text-left text-xl w-full px-4 text-dark-900 lg:px-0 lg:text-3xl lg:w-3/4 dark:text-light-50/80">
       Hi!
       My name is César, on the internet world I use the nickname of
       <span class="underline italic">
@@ -35,7 +36,7 @@
       Funny? Absolutely sure!
     </p>
     <img src="/me.webp" width="200" height="200"
-      class="h-full object-cover object-top mt-24 w-1/4 hover:mix-blend-difference" loading="lazy"
+      class="h-full object-cover object-top mt-24 w-full lg:w-1/4 hover:mix-blend-difference" loading="lazy"
       alt="profile photo of cess white developer">
   </div>
 </template>
