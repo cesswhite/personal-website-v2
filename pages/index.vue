@@ -4,7 +4,7 @@
       <AppBlur />
     </div>
     <div class="flex flex-col z-1 gap-4 relative justify-center items-center">
-      <h1 class="font-sans font-semibold text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
+      <h1 class="font-sans font-semibold text-center text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
         Céss White
       </h1>
       <h2 class="font-sans font-medium text-center text-3xl text-dark-900 w-3/4 dark:text-light-50">
