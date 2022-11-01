@@ -2,17 +2,17 @@
   "templates": [
     {
       "name": "Minimal Portfolio #1",
-      "image": "/template-1.png",
+      "image": "/template-1.webp",
       "link": "https://pack-portfolio-1.vercel.app/"
     },
     {
       "name": "Minimal Portfolio #2",
-      "image": "/template-2.png",
+      "image": "/template-2.webp",
       "link": "https://pack-portfolio-2.vercel.app/"
     },
     {
       "name": "Minimal Portfolio #3",
-      "image": "/template-3.png",
+      "image": "/template-3.webp",
       "link": "https://pack-portfolio-3.vercel.app/"
     }
   ]

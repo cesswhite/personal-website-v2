@@ -16,4 +16,59 @@
 
 <script setup>
 import work from '../assets/data/works.json'
+useHead({
+  title: 'Céss White | Works',
+  viewport: 'width=device-width, initial-scale=1, maximum-scale=5',
+  charset: 'utf-8',
+  meta: [
+    {
+      name: 'site_name',
+      content: 'Céss White | Front End Developer & UI Designer'
+    },
+    {
+      name: 'og:site_name',
+      content: 'Céss White | Front End Developer & UI Designer'
+    },
+    {
+      name: 'description',
+      content: 'Minimalist Front End Developer and UI Designer, I can help you to bring your ideas to reality.'
+    },
+    {
+      name: 'og:description',
+      content: 'Minimalist Front End Developer and UI Designer, I can help you to bring your ideas to reality.'
+    },
+    {
+      name: 'og:site_description',
+      content: 'Minimalist Front End Developer and UI Designer, I can help you to bring your ideas to reality.'
+    },
+    {
+      name: 'og:type',
+      content: 'website'
+    },
+    {
+      hid: 'twitter:site',
+      content: '@cesswhite_'
+    },
+    {
+      name: 'twitter:card',
+      content: 'summary_large_image'
+    },
+    {
+      property: 'og:image',
+      content: '/og-image.webp'
+    },
+    {
+      property: 'og:image:secure_url',
+      content: '/og-image.webp'
+    },
+    {
+      property: 'og:image:alt',
+      content: 'Cover photo of Cess white'
+    },
+    {
+      name: 'twitter:image',
+      content: '/og-image.webp'
+    },
+  ]
+})
 </script>

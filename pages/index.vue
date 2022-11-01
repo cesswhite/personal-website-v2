@@ -12,13 +12,13 @@
       </h2>
       <div class="flex gap-4">
         <NuxtLink to="https://github.com/cesswhite" target="blank"
-          class="text-5xl text-dark-900/60 i-carbon-logo-github dark:text-light-50/60" />
+          class="text-5xl text-dark-900/60 i-carbon-logo-github dark:text-light-50/60 hover:dark:text-light-50/80" />
         <NuxtLink to="https://twitter.com/cesswhite_" target="blank"
-          class="text-5xl text-dark-900/60 i-carbon-logo-twitter dark:text-light-50/60" />
+          class="text-5xl text-dark-900/60 i-carbon-logo-twitter dark:text-light-50/60 hover:dark:text-light-50/80" />
         <NuxtLink to="https://www.instagram.com/cess_armando/" target="blank"
-          class="text-5xl text-dark-900/60 i-carbon-logo-instagram dark:text-light-50/60" />
+          class="text-5xl text-dark-900/60 i-carbon-logo-instagram dark:text-light-50/60 hover:dark:text-light-50/80" />
         <NuxtLink to="https://www.linkedin.com/in/cesswhite/" target="blank"
-          class="text-5xl text-dark-900/60 i-carbon-logo-linkedin dark:text-light-50/60" />
+          class="text-5xl text-dark-900/60 i-carbon-logo-linkedin dark:text-light-50/60 hover:dark:text-light-50/80" />
       </div>
     </div>
   </div>
