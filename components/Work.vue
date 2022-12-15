@@ -5,7 +5,7 @@
         {{ name }}
 
       </h1>
-      <span class="text-lg text-dark-900/60 italic inline-block ">
+      <span class="text-lg text-dark-900/60 italic inline-block dark:text-light-50/60">
         {{ type }}
       </span>
       <p class="font-sans mt-4 w-full text-dark-900/60 text-2xl lg:text-3xl dark:text-light-50/60">

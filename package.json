@@ -13,6 +13,6 @@
     "@nuxtjs/color-mode": "^3.1.8",
     "@unocss/nuxt": "^0.46.2",
     "@unocss/preset-icons": "^0.46.2",
-    "nuxt": "3.0.0-rc.12"
+    "nuxt": "3.0.0"
   }
 }
