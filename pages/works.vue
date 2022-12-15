@@ -7,7 +7,7 @@
       <h2 class="font-sans font-medium text-center text-3xl text-dark-900/60 italic dark:text-light-50/60">
         From nothing to everything
       </h2>
-      <div class="mt-24 w-full grid gap-x-8 gap-y-14 grid-cols-1 2xl:grid-cols-3">
+      <div class="mt-24 w-full grid gap-x-8 gap-y-14 grid-cols-1 md:px-8 md:grid-cols-2 xl:px-0 2xl:grid-cols-3">
         <template v-for="__w in _work">
           <Work :name="__w.name" :description="__w.description" :image="__w.image" :link="__w.link" :type="__w.type" />
         </template>
