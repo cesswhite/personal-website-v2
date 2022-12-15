@@ -1,6 +1,6 @@
 <template>
   <header
-    class="bg-light-50/60 border-b-1 border-dark-900 w-full grid px-1 top-0 z-1 grid-cols-12 backdrop-blur-lg fixed items-center justify-between lg:px-4 dark:bg-dark-900/80 dark:border-light-50">
+    class="bg-light-50/60 border-b-1 border-dark-900 w-full grid px-1 top-0 z-1 grid-cols-12 backdrop-blur-lg fixed items-center justify-between dark:bg-dark-900/80 dark:border-light-50">
     <div class="border-r-1 border-dark-900 col-span-2 dark:border-light-50">
       <NuxtLink to="/">
         <AppLogo />

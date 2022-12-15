@@ -1,28 +1,46 @@
 {
   "works": [
     {
+      "name": "Code with Beto",
+      "description": "Online courses platform focused on mobile application development with react native",
+      "image": "/codewithbeto.webp",
+      "link": "https://codewithbeto.dev/",
+      "type": "Design"
+    },
+    {
+      "name": "JAMA Security",
+      "description": "Company dedicated to cloud security, providing different tools, training and services to offer the necessary security in your company.",
+      "image": "/jamasecurity.webp",
+      "link": "https://jamasecurity.com/about/",
+      "type": "Design"
+    },
+    {
       "name": "Código Fuente Software",
       "description": "Company focused on the development of software for the medical industry in the United States which provides the best digital tools for administrative processes.",
       "image": "/codigo-fuente.webp",
-      "link": "https://codigofuentesoftware.com.mx/"
+      "link": "https://codigofuentesoftware.com.mx/",
+      "type": "Development"
     },
     {
       "name": "Counter Top Masters",
       "description": "Company dedicated to the creation, modification and restoration of countertops that need a delicate care.",
       "image": "/counter-top.webp",
-      "link": "https://www.countertopmasters.com/"
+      "link": "https://www.countertopmasters.com/",
+      "type": "Development"
     },
     {
       "name": "Boys & Girls Clubs",
       "description": "Non-profit organization that enables all young people, especially those who need us most, to reach their full potential as productive, caring and responsible citizens.",
       "image": "/bgc.webp",
-      "link": "https://bgcgmw.org"
+      "link": "https://bgcgmw.org",
+      "type": "Design & Development"
     },
     {
       "name": "Knives MX",
       "description": "Knives Mexico is a company dedicated to the sale and distribution of knives and pocket knives for all types of use.",
       "image": "/knives.webp",
-      "link": "https://www.knives.mx/"
+      "link": "https://www.knives.mx/",
+      "type": "Development"
     }
   ]
 }

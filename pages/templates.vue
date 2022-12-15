@@ -3,10 +3,10 @@
     <h1 class="font-sans font-semibold text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
       Templates
     </h1>
-    <h2 class="font-sans font-medium text-center text-3xl text-dark-900 dark:text-light-50">
-      Minimalist and lovingly handcrafted
+    <h2 class="font-sans font-medium text-center text-3xl text-dark-900/60 italic dark:text-light-50/60">
+      Minimalist and lovingly handcrafted with Nuxt 3
     </h2>
-    <div class="mt-28 w-full grid gap-12 grid-cols-1 lg:mt-42 lg:grid-cols-2">
+    <div class="mx-auto mt-28 w-full grid gap-12 grid-cols-1 lg:mt-42 lg:grid-cols-2 2xl:w-screen-2xl">
       <template v-for="__w in templates.templates">
         <Template :name="__w.name" :description="__w.description" :image="__w.image" :link="__w.link" />
       </template>

@@ -13,7 +13,7 @@
       (abbreviation of my name and my favorite color)
       <br>
       <br>
-      I'm a Front End Developer with 4+ years of experience in this area, but, in the last two years, I have been
+      I'm a Front End Developer with 5+ years of experience in this area, but, in the last two years, I have been
       studying and training as a UI Designer, creating projects from scratch to
       production.
       <br>
@@ -36,8 +36,8 @@
       Funny? Absolutely sure!
     </p>
     <img src="/me.webp" width="200" height="200"
-      class="h-full object-cover object-top mt-24 w-full lg:w-1/4 hover:mix-blend-difference" loading="lazy"
-      alt="profile photo of cess white developer">
+      class="h-full object-cover object-top mt-24 w-full lg:w-1/4 hover:mix-blend-difference dark:hover:mix-blend-hard-light"
+      loading="lazy" alt="profile photo of cess white developer">
   </div>
 </template>
 

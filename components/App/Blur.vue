@@ -1,5 +1,6 @@
 <template>
-  <svg width="1199" height="867" viewBox="0 0 1199 867" class="stroke-current stroke-sky-300 dark:stroke-purple-600"
+  <svg width="1199" height="867" viewBox="0 0 1199 867"
+    class="fill-current stroke-current stroke-sky-600 text-indigo-500 dark:stroke-green-500 dark:text-yellow-500"
     xmlns="http://www.w3.org/2000/svg">
     <g filter="url(#filter0_f_2115_1256)">
       <path
@@ -11,7 +12,7 @@
         color-interpolation-filters="sRGB">
         <feFlood flood-opacity="0" result="BackgroundImageFix" />
         <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
-        <feGaussianBlur stdDeviation="105" result="effect1_foregroundBlur_2115_1256" />
+        <feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_2115_1256" />
       </filter>
     </defs>
   </svg>

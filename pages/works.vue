@@ -1,21 +1,26 @@
 <template>
-  <div class="flex flex-col py-42 gap-4 justify-center items-center">
-    <h1 class="font-sans font-semibold text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
-      Works
-    </h1>
-    <h2 class="font-sans font-medium text-center text-3xl text-dark-900 dark:text-light-50">
-      We build your ideas
-    </h2>
-    <div class="w-full">
-      <template v-for="__w in work.works">
-        <Work :name="__w.name" :description="__w.description" :image="__w.image" :link="__w.link" />
-      </template>
+  <div class="w-full py-40">
+    <div class="flex flex-col mx-auto w-full justify-center items-center 2xl:w-screen-2xl">
+      <h1 class="font-sans font-semibold text-7xl text-dark-900 lg:text-9xl dark:text-light-50">
+        Works
+      </h1>
+      <h2 class="font-sans font-medium text-center text-3xl text-dark-900/60 italic dark:text-light-50/60">
+        From nothing to everything
+      </h2>
+      <div class="mt-24 w-full grid gap-x-8 gap-y-14 grid-cols-1 2xl:grid-cols-3">
+        <template v-for="__w in _work">
+          <Work :name="__w.name" :description="__w.description" :image="__w.image" :link="__w.link" :type="__w.type" />
+        </template>
+      </div>
     </div>
   </div>
+
 </template>
 
 <script setup>
 import work from '../assets/data/works.json'
+
+const _work = ref(work.works)
 useHead({
   title: 'Céss White | Works',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=5',
