@@ -7,7 +7,8 @@
       </NuxtLink>
     </div>
     <div class="flex h-full border-r-1 border-dark-900 px-4 col-span-8 items-center dark:border-light-50">
-      <nav class="flex w-full text-dark-900 gap-2 items-center justify-start overflow-x-scroll dark:text-light-50">
+      <nav
+        class="flex w-full text-dark-900 gap-2 items-center justify-start overflow-x-scroll 2xl:overflow-hidden dark:text-light-50">
         <NuxtLink to="/about">
           About
         </NuxtLink>

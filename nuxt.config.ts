@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@nuxtjs/color-mode'
   ],
+  plugins: [{ src: '~/plugins/vercel.js', mode: 'client' }],
   css: ['@/assets/css/global.css'],
   unocss: {
     uno: true,
