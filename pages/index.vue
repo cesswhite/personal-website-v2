@@ -1,7 +1,7 @@
 <template>
   <div class="flex h-screen w-full  items-center justify-center">
     <div
-      class="flex h-screen transition-all ease-in-out duration-500 absolute items-center justify-center overflow-hidden lg:h-auto">
+      class="flex h-screen transition-all ease-in-out duration-500 absolute items-center justify-center overflow-hidden 2xl:h-auto">
       <AppBlur />
     </div>
     <div class="flex flex-col z-1 gap-4 relative justify-center items-center">

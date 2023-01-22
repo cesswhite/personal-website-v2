@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <div class="border-t-1 border-dark-900 px-4 pt-12 items-center justify-between lg:px-0 dark:border-light-50">
+    <div class="border-t-1 border-dark-900 pt-12 items-center justify-between lg:px-0 dark:border-light-50">
       <h1 class="font-sans w-full text-dark-900 text-4xl lg:text-6xl dark:text-light-50">
         {{ name }}
 
