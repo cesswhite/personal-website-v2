@@ -1,6 +1,6 @@
 <template>
   <div id="__app" class="h-auto w-full relative">
-    <main role="main" class="font-serif h-auto bg-zinc-200/20 dark:bg-dark-900">
+    <main role="main" class="font-serif h-auto bg-zinc-200/20 dark:bg-dark-800">
       <NuxtPage />
     </main>
   </div>
