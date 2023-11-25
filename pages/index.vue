@@ -1,10 +1,10 @@
 <template>
-  <div class="w-full h-screen relative">
+  <div class="w-full h-screen relative overflow-hidden">
     <div class="absolute top-4 right-4">
       <AppSwitchMode />
     </div>
     <div
-      class="absolute bottom-24 w-full px-2 lg:bottom-24 lg:left-24 flex flex-col gap-2"
+      class="absolute bottom-24 w-full px-2 lg:bottom-24 md:left-24 flex flex-col gap-2"
     >
       <h1 class="text-2xl lg:text-3xl text-zinc-800 dark:text-zinc-50">
         Céss White
