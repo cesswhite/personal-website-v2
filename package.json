@@ -10,12 +10,12 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.11",
     "@iconify-json/heroicons": "^1.1.6",
-    "@nuxtjs/color-mode": "^3.2.0",
-    "@unocss/nuxt": "^0.47.6",
-    "@unocss/preset-icons": "^0.46.2",
-    "nuxt": "3.0.0"
+    "@nuxtjs/color-mode": "^3.3.2",
+    "@unocss/nuxt": "^0.57.7",
+    "@unocss/preset-icons": "^0.57.7",
+    "nuxt": "^3.8.2"
   },
   "dependencies": {
-    "@vercel/analytics": "^0.1.8"
+    "@vercel/analytics": "^1.1.1"
   }
 }
